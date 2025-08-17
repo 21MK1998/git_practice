@@ -5,7 +5,6 @@ import seaborn as sb
 import os
 import sys
 import math
-
 # abcdefg
 
 def function2():
@@ -14,9 +13,6 @@ def function2():
     It is here to demonstrate the structure of a Python file.
     """
     pass
-
-# Sample Python code for data analysis
-# abcdefg
 
 def sample:_function():
     # This is a sample function
